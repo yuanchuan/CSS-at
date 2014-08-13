@@ -1,4 +1,4 @@
-# A collection of shared knowledge to CSS
+# A collection of shared experience to CSS
 
 * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/)
 * [CodePen's CSS](http://codepen.io/chriscoyier/blog/codepens-css)
