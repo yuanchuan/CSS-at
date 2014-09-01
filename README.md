@@ -6,4 +6,4 @@
 * [CSS at Groupon](http://mikeaparicio.com/2014/08/10/css-at-groupon/)
 * [CSS at Plataformatec](http://blog.plataformatec.com.br/2014/08/css-at-plataformatec/)
 * [CSS at Hootsuite](http://code.hootsuite.com/css-at-hootsuite/)
-* [Medium’s CSS is actually pretty fucking good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
+* [Medium’s CSS is actually pretty f\*\*\*ing good](https://medium.com/@fat/mediums-css-is-actually-pretty-fucking-good-b8e2a6c78b06)
