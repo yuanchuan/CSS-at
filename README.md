@@ -1,6 +1,6 @@
 ## CSS At __
 
->Styleguides or approach to CSS at different company.
+>Styleguides or approach to CSS at different companies.
 
 ### 2015
 
