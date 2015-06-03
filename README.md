@@ -9,6 +9,7 @@
 * (2015.03.09) [CSS at Skroutz](http://engineering.skroutz.gr/blog/css-at-skroutz/)
 * (2015.03.14) [CSS at Teamweek](http://blog.teamweek.com/2015/03/using-css-in-teamweek/)
 * (2015.03.31) [How We Do CSS at Zumba](http://tech.zumba.com/2015/03/31/how-we-do-css/)
+* (2015.05.29) [How we do CSS at Made by Many](http://madebymany.com/blog/how-we-do-css-at-made-by-many)
  
 ### 2014
 
