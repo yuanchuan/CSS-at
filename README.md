@@ -4,6 +4,7 @@
 
 ### 2016
 
+* (2016.09.09) [CSS at trivago — Part 1](https://medium.com/@pistenprinz/css-at-trivago-part-1-structure-and-itcss-52f63ed557ca)
 * (2016.06.28) [How we write CSS at Factorial](https://www.factorial.io/en/blog/2016/06/28/how-we-write-css-at-factorial/)
 * (2016.06.23) [CSS at Opengov](https://medium.com/@andrewliebchen/css-at-opengov-1bb32d5188e4)
 * (2016.05.31) [CSS at BBC Sport (Part 1)](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66)
