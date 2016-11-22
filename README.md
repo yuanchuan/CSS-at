@@ -4,6 +4,7 @@
 
 ### 2016
 
+* (2016.11.21) [CSS at trivago — Part 2](https://medium.com/@pistenprinz/css-at-trivago-part-2-naming-conventions-and-methodologies-d51b445a3a39)
 * (2016.09.23) [How we work with CSS at CARTO](http://matall.in/posts/css-carto/)
 * (2016.09.09) [CSS at trivago — Part 1](https://medium.com/@pistenprinz/css-at-trivago-part-1-structure-and-itcss-52f63ed557ca)
 * (2016.06.28) [How we write CSS at Factorial](https://www.factorial.io/en/blog/2016/06/28/how-we-write-css-at-factorial/)
